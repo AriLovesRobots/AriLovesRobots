@@ -8,10 +8,7 @@ I love diving into my own projects that I find potential in, feel free to check 
 
 ## Tools I use:
 
-   -> Vim (mainly) for coding 
-   -> Arduino IDE for testing
-   -> Obsidian for note-taking and planning
-   -> OS: Arch Linux
+   I use Vim (mainly) for coding, Arduino IDE for testing, Obsidian for note-taking and planning. My operating system is Arch Linux
 
 
 <!--
