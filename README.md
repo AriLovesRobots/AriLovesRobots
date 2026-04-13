@@ -8,7 +8,7 @@ I love diving into my own projects that I find potential in, feel free to check 
 
 ## Tools I use:
 
-   I use Vim (mainly) for coding, Arduino IDE for testing, Obsidian for note-taking and planning. My operating system is Arch Linux.
+   I mainly use VScode for coding and vim whenever I want to keep stuff minimal, Obsidian for note-taking and planning. My operating system is Ubuntu.
 
 
 <!--
